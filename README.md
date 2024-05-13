@@ -17,6 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+
+### Статистика: 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Redokpaw&theme=dark&locale=ru)](https://git.io/streak-stats)
 <!--
 **RedokPaw/RedokPaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
