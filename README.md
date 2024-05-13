@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет! 👋
+
+<img src="https://komarev.com/ghpvc/?username=RedokPaw&style=flat-square&color=blue" alt=""/>
+
 
 <!--
 **RedokPaw/RedokPaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
