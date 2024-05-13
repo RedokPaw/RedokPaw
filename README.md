@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=RedokPaw&style=flat-square&color=orange" alt=""/>
 
-###Обо мне
+### Обо мне
 ✨ Я начинающий Java Backend разработчик. Здесь находятся мои пет-проекты, которые ты можешь оценить
 
 ### :hammer_and_wrench: Мои языки и инструменты программирования:
